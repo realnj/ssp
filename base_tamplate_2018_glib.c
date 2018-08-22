@@ -7,6 +7,7 @@
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
+// Testing comment by NJ
 
 #include <stdio.h>
 #include <stdlib.h>
