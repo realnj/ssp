@@ -405,12 +405,12 @@ void print_batch( void )
 	}
 }
 
-// ¸®½ºÆ®ÀÇ Ã¹ ÀüÃ¼ ³ëµåÀÇ °³¼ö ¸®ÅÏ
+// ë¦¬ìŠ¤íŠ¸ì˜ ì²« ì „ì²´ ë…¸ë“œì˜ ê°œìˆ˜ ë¦¬í„´
 void usage1_g_slist_length(void)
 {
 	int i = g_slist_length( list );
 }
-// ¸®½ºÆ®ÀÇ Ã¹ ³ëµå ¾Õ¿¡ µ¥ÀÌÅÍ »ğÀÔ
+// ë¦¬ìŠ¤íŠ¸ì˜ ì²« ë…¸ë“œ ì•ì— ë°ì´í„° ì‚½ì…
 void usage2_g_slist_prepend(void)
 {
 	ST_DATA * p = (ST_DATA *) malloc( sizeof(ST_DATA) );
